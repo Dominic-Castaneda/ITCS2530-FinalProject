@@ -1,0 +1,4 @@
+ITCS-2530 4 99
+ITCS-1010 3 95
+English 4 97
+Bio 4 86
